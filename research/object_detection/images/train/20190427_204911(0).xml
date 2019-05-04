@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20190427_204911(0).jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\20190427_204911(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nadar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>368</ymin>
+			<xmax>3027</xmax>
+			<ymax>1546</ymax>
+		</bndbox>
+	</object>
+</annotation>
